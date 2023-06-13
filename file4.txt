@@ -1,1 +1,2 @@
 This is my fourth file.
+I added a line here.
